@@ -8,7 +8,7 @@ const Hero = () => {
     <div className={styles.content}>
         
         <h1 className={styles.title}>Hi, i´m Joshua</h1>
-        <p className={styles.description}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum cumque temporibus voluptatum cum odio sed vero veritatis eos! Libero, quibusdam. Sa?</p>
+        <p className={styles.description}>I'm Joshua, a 26-year-old web developer from Germany. With solid experience in web development, I work with HTML, CSS, SASS, and JavaScript for the frontend, and Node.js for the backend. I'm excited to keep exploring and growing in this field 🖥️.</p>
         <a href="mailto:joshua-marcel.kaiser@web.de" className={styles.contactBtn}>Contact me</a>
     
     </div>

@@ -6,7 +6,7 @@
     --color-bg: #04152d;
   
     --font-roboto: "Roboto";
-  }  */
+  }   */
 
   /* :root { 
     --color-text: #e0e7ed;
@@ -14,15 +14,23 @@
     --color-secondary: ##6F2602;
     --color-dark: #0b2447;
     --color-bg: #1B2830;
-  
     --font-roboto: "Roboto";
   } */
 
-  :root { 
+   :root { 
     --color-text: #E0E7ED;
     --color-primary: #466d35;
     --color-secondary: #99b18c;
     --color-dark: #1f2b21;
     --color-bg: #344937;
     --font-roboto: "Roboto";
-  } 
+  }  
+
+  /* :root { 
+    --color-text: #fbb52b;
+    --color-primary: #83c5d9;
+    --color-secondary: #91daf0;
+    --color-dark: #0f6b98;
+    --color-bg: #1282b9;
+    --font-roboto: "Roboto";
+  }  */
