@@ -82,7 +82,7 @@
     left: -10vw;
     border-radius: 764px;
      /*background: rgba(25, 55, 109, 0.7); Blau*/
-    background: rgba(108, 168, 82, 0.7); /*Grün*/
+    background: rgba(108, 168, 82, 0.702); /*Grün*/
     filter: blur(100px);
     z-index: 0;
   }
