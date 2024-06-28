@@ -1,26 +1,29 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Welcome to Europe",
+      "imageSrc": "projects/europe.png",
+      "description": "Discover the diversity of Europe! This website offers comprehensive information about all European countries, their history, culture, and landmarks.",
+      "skills": ["CSS", "JS", "React"],
+      "demo": "https://europe-bbqy.onrender.com/",
+      "source": "https://github.com/JoshuaKaiser490/Europe"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Notes",
+      "imageSrc": "projects/notes.png",
+      "description": "Effortlessly capture important things! My notes app features an intuitive interface to quickly and neatly store ideas, tasks, and reminders. Ideal for everyday use",
+      "skills": ["CSS", "JS", "React"],
+      "demo": "https://note-app-5j3s.onrender.com/",
+      "source": "https://github.com/JoshuaKaiser490/Note-App"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "title": "Schere Stein Papier",
+      "imageSrc": "projects/ssp.png",
+      "description": "Challenge the computer! Play Rock Paper Scissors online and test your strategies against an intelligent opponent. A fun challenge for all ages. Have fun!",
       "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://joshuakaiser490.github.io/Schere-Stein-Papier/",
+      "source": "https://github.com/JoshuaKaiser490/Schere-Stein-Papier"
     }
   ]
+
+
+ 
