@@ -24,7 +24,23 @@
       "imageSrc": "skills/figma.png"
     },
     {
+      "title": "macOS",
+      "imageSrc": "skills/macos2.png"
+    },
+    {
+      "title": "Terminal",
+      "imageSrc": "skills/terminal2.png"
+    },
+    {
       "title": "Chat GPT",
       "imageSrc": "skills/gpt.png"
+    },
+    {
+      "title": "Responsive",
+      "imageSrc": "skills/responsive.png"
+    },
+    {
+      "title": "macOS",
+      "imageSrc": "skills/macos2.png"
     }
   ]
