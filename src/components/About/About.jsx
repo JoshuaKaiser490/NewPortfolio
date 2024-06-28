@@ -13,7 +13,7 @@ function About() {
           className={styles.aboutImage} />
           <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>
-              <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
+              {/* <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" /> */}
               <div className={styles.aboutItemText}>
                <h3>Frontend Developer</h3>
                <p>
@@ -22,7 +22,7 @@ function About() {
               </div>
             </li>
             <li className={styles.aboutItem} >
-              <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon" />
+              {/* <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon" /> */}
               <div className={styles.aboutItemText}>
                <h3>Backend Developer</h3>
                <p>
@@ -32,7 +32,7 @@ function About() {
             </div>
           </li>
           <li className={styles.aboutItem}>
-              <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
+              {/* <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" /> */}
               <div className={styles.aboutItemText}>
                <h3>UI Designer</h3>
                <p>

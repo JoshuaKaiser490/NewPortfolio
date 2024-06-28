@@ -57,10 +57,10 @@
   font-size: 30px;
   font-weight: 600;
   border-radius: 100px;
-  background: var(--color-primary);
+  background-color: rgb(88, 138, 67);
   padding: 1px 22px;
 }
 
 .link:hover{
-  background-color: rgb(88, 138, 67)
+  background-color: rgb(100, 156, 76)
 }
