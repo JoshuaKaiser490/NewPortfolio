@@ -7,7 +7,7 @@ const Hero = () => {
   <section className={styles.container}>
     <div className={styles.content}>
         
-        <h1 className={styles.title}>Hi, i´m Joshua</h1>
+        <h1 className={styles.title}>Hi, I´m Joshua</h1>
         <p className={styles.description}>I'm Joshua, a 26-year-old web developer from Germany. With solid experience in web development, I work with HTML, CSS, SASS, and JavaScript for the frontend, and Node.js for the backend. I'm excited to keep exploring and growing in this field 🖥️.</p>
         <a href="mailto:joshua-marcel.kaiser@web.de" className={styles.contactBtn}>Contact me</a>
     
