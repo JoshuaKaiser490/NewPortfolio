@@ -24,8 +24,12 @@
       "imageSrc": "skills/figma.png"
     },
     {
-      "title": "macOS",
-      "imageSrc": "skills/macos2.png"
+      "title": "GitHub",
+      "imageSrc": "skills/github2.png"
+    },
+    {
+      "title": "git",
+      "imageSrc": "skills/git2.png"
     },
     {
       "title": "Terminal",
