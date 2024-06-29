@@ -9,7 +9,7 @@
     },
     {
       "title": "Notes",
-      "imageSrc": "projects/notes.png",
+      "imageSrc": "projects/notes.WebP",
       "description": "Effortlessly capture important things! My notes app features an intuitive interface to quickly and neatly store ideas, tasks, and reminders. Ideal for everyday use",
       "skills": ["CSS", "JS", "React"],
       "demo": "https://note-app-5j3s.onrender.com/",
