@@ -1,50 +1,50 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "imageSrc": "skills/html.webp"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "imageSrc": "skills/css.webp"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "skills/js.png"
+      "imageSrc": "skills/js.webp"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "skills/react.webp"
     },
     {
       "title": "Node",
-      "imageSrc": "skills/node.png"
+      "imageSrc": "skills/node.WebP"
     },
     {
       "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/figma.WebP"
     },
     {
       "title": "GitHub",
-      "imageSrc": "skills/github2.png"
+      "imageSrc": "skills/github2.WebP"
     },
     {
       "title": "git",
-      "imageSrc": "skills/git2.png"
+      "imageSrc": "skills/git2.WebP"
     },
     {
       "title": "Terminal",
-      "imageSrc": "skills/terminal2.png"
+      "imageSrc": "skills/terminal2.WebP"
     },
     {
       "title": "Chat GPT",
-      "imageSrc": "skills/gpt.png"
+      "imageSrc": "skills/gpt.WebP"
     },
     {
       "title": "Responsive",
-      "imageSrc": "skills/responsive.png"
+      "imageSrc": "skills/responsive.WebP"
     },
     {
       "title": "macOS",
-      "imageSrc": "skills/macos2.png"
+      "imageSrc": "skills/macos2.WebP"
     }
   ]

@@ -1,7 +1,7 @@
 [
     {
       "title": "Welcome to Europe",
-      "imageSrc": "projects/europe.png",
+      "imageSrc": "projects/europe.WebP",
       "description": "Discover the diversity of Europe! This website offers comprehensive information about all European countries, their history, culture, and landmarks.",
       "skills": ["CSS", "JS", "React"],
       "demo": "https://europe-bbqy.onrender.com/",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Schere Stein Papier",
-      "imageSrc": "projects/ssp.png",
+      "imageSrc": "projects/ssp.WebP",
       "description": "Challenge the computer! Play Rock Paper Scissors online and test your strategies against an intelligent opponent. A fun challenge for all ages. Have fun!",
       "skills": ["HTML", "CSS", "JS"],
       "demo": "https://joshuakaiser490.github.io/Schere-Stein-Papier/",

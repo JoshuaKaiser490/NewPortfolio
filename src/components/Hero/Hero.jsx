@@ -23,7 +23,7 @@ const Hero = () => {
         <a href="mailto:joshua-marcel.kaiser@web.de" className={styles.contactBtn}>Contact me</a>
     
     </div>
-    <img  src={getImageUrl("hero/heroImage.png")} alt="Hero Image of me" className={styles.heroImg}/>
+    <img  src={getImageUrl("hero/heroImage.WebP")} alt="Hero Image of me" className={styles.heroImg}/>
     <div className={styles.topBlur}></div>
     <div className={styles.bottomBlur}></div>
   </section>
