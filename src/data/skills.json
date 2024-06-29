@@ -1,19 +1,19 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "skills/html.webp"
+      "imageSrc": "skills/html.WebP"
     },
     {
       "title": "CSS",
-      "imageSrc": "skills/css.webp"
+      "imageSrc": "skills/css.WebP"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "skills/js.webp"
+      "imageSrc": "skills/js.WebP"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.webp"
+      "imageSrc": "skills/react.WebP"
     },
     {
       "title": "Node",
