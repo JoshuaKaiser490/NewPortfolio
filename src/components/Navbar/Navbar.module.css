@@ -72,12 +72,11 @@
     background: rgb(108, 168, 82);
     background: linear-gradient(
       0deg,
-      rgba(108, 168, 82, 0.702) 0%,
-       rgba(25, 55, 109, 0) 100%);
+      rgba(108, 168, 82, 0.65) 0%,
+      rgba(88, 138, 67, 1) 100%);
     padding: 24px 32px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
   }
-
   .menuOpen {
     display: flex;
     z-index: 1;

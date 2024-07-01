@@ -45,7 +45,7 @@
   font-size: 32px;
   font-weight: 600;
   padding: 16px 24px;
-  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.35);
 }
 
 .contactBtn:hover{
@@ -76,12 +76,12 @@
   
   .topBlur {
     position: absolute;
-    width: 50vw;
-    height: 50vw;
+    width: 40vw;
+    height: 40vw;
     min-width: 350px;
     min-width: 350px;
     top: -128px;
-    left: -10vw;
+    left: -8vw;
     border-radius: 764px;
      /*background: rgba(25, 55, 109, 0.7); Blau*/
     background: rgba(108, 168, 82, 0.702); /*Grün*/
@@ -91,8 +91,8 @@
   
   .bottomBlur {
     position: absolute;
-    width: 70vw;
-    height: 50vw;
+    width: 64vw;
+    height: 40vw;
     min-width: 350px;
     min-width: 250px;
     top: 240px;
