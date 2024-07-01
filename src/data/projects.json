@@ -2,7 +2,7 @@
     {
       "title": "Welcome to Europe",
       "imageSrc": "projects/europe.WebP",
-      "description": "Discover the diversity of Europe! This website offers comprehensive information about all European countries, their history, culture, and landmarks.",
+      "description": "Discover the diversity of Europe! This website offers comprehensive information about all European countries, their history, culture, and landmarks. Perfect Infos!",
       "skills": ["CSS", "JS", "React"],
       "demo": "https://europe-bbqy.onrender.com/",
       "source": "https://github.com/JoshuaKaiser490/Europe"
