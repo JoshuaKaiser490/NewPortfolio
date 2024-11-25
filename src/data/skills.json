@@ -14,6 +14,14 @@
     {
       "title": "React",
       "imageSrc": "skills/react.WebP"
+    }, 
+    {
+      "title": "Angular",
+      "imageSrc": "skills/angular.WebP"
+    },
+    {
+      "title": "Typescript",
+      "imageSrc": "skills/typescript.WebP"
     },
     {
       "title": "Node",
@@ -36,7 +44,7 @@
       "imageSrc": "skills/terminal2.WebP"
     },
     {
-      "title": "Chat GPT",
+      "title": "AI",
       "imageSrc": "skills/gpt.WebP"
     },
     {

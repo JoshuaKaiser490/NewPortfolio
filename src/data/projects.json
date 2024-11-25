@@ -1,29 +1,34 @@
 [
-    {
-      "title": "Welcome to Europe",
-      "imageSrc": "projects/europe.WebP",
-      "description": "Discover the diversity of Europe! This website offers comprehensive information about all European countries, their history, culture, and landmarks. Perfect Infos!",
-      "skills": ["CSS", "JS", "React"],
-      "demo": "https://europe-bbqy.onrender.com/",
-      "source": "https://github.com/JoshuaKaiser490/Europe"
-    },
-    {
-      "title": "Notes",
-      "imageSrc": "projects/notes.WebP",
-      "description": "Effortlessly capture important things! My notes app features an intuitive interface to quickly and neatly store ideas, tasks, and reminders. Ideal for everyday use",
-      "skills": ["CSS", "JS", "React"],
-      "demo": "https://note-app-5j3s.onrender.com/",
-      "source": "https://github.com/JoshuaKaiser490/Note-App"
-    },
-    {
-      "title": "Schere Stein Papier",
-      "imageSrc": "projects/ssp.WebP",
-      "description": "Challenge the computer! Play Rock Paper Scissors online and test your strategies against an intelligent opponent. A fun challenge for all ages. Have fun!",
-      "skills": ["HTML", "CSS", "JS"],
-      "demo": "https://joshuakaiser490.github.io/Schere-Stein-Papier/",
-      "source": "https://github.com/JoshuaKaiser490/Schere-Stein-Papier"
-    }
-  ]
-
-
- 
+  {
+    "title": "Codeducate",
+    "imageSrc": "projects/codeducate.WebP",
+    "description": "Master HTML, CSS, and JavaScript at your pace with Codeducate! Practical exercises and clear guidance help you build skills and create your own projects. Start now!",
+    "skills": ["React", "CSS", "JS", "Tailwind", "Figma"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Welcome to Europe",
+    "imageSrc": "projects/europe.WebP",
+    "description": "Discover the diversity of Europe! This website offers comprehensive information about all European countries, their history, culture, and landmarks. Perfect Infos!",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://europe-bbqy.onrender.com/",
+    "source": "https://github.com/JoshuaKaiser490/Europe"
+  },
+  {
+    "title": "Notes",
+    "imageSrc": "projects/notes.WebP",
+    "description": "Effortlessly capture important things! My notes app features an intuitive interface to quickly and neatly store ideas, tasks, and reminders. Ideal for everyday use",
+    "skills": ["HTML", "CSS", "JS", "React"],
+    "demo": "https://note-app-5j3s.onrender.com/",
+    "source": "https://github.com/JoshuaKaiser490/Note-App"
+  },
+  {
+    "title": "Schere Stein Papier",
+    "imageSrc": "projects/ssp.WebP",
+    "description": "Challenge the computer! Play Rock Paper Scissors online and test your strategies against an intelligent opponent. A fun challenge for all ages. Have fun!",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://joshuakaiser490.github.io/Schere-Stein-Papier/",
+    "source": "https://github.com/JoshuaKaiser490/Schere-Stein-Papier"
+  }
+]

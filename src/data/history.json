@@ -3,8 +3,16 @@
       "role": "Retraining",
       "organisation": "Digital Career Institute",
       "startDate": "Nov, 2023",
-      "endDate": "Present",
+      "endDate": "Nov, 2024",
       "experiences": ["At DCI, I learned both frontend and backend development. I worked with HTML, CSS, SASS, and JavaScript for the frontend, and Node.js for the backend."],
       "imageSrc": "history/DCI.WebP"
+    },
+    {
+      "role": "Internship",
+      "organisation": "Learnfiction",
+      "startDate": "Nov, 2024",
+      "endDate": "Present",
+      "experiences": ["During my internship at a startup specializing in a learning platform for students, I focused on frontend development. I worked with HTML, CSS, JavaScript, and TypeScript, using Angular to create user-friendly and responsive interfaces while collaborating with the team to deliver a seamless user experience."],
+      "imageSrc": "history/LF.WebP"
     }
   ]
