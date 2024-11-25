@@ -7,6 +7,7 @@
   border-radius: 16px;
   background: var(--color-secondary);
   box-shadow: 0 16px 14px 0 rgb(30, 47, 23);
+  margin-top: 20px;
   padding: 16px 24px;
   max-width: 345px;
   min-height: 650px; /* Mindesthöhe beibehalten */

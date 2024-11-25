@@ -3,7 +3,7 @@
     "title": "Codeducate",
     "imageSrc": "projects/codeducate.WebP",
     "description": "Master HTML, CSS, and JavaScript at your pace with Codeducate! Practical exercises and clear guidance help you build skills and create your own projects. Start now!",
-    "skills": ["React", "CSS", "JS", "Tailwind", "Figma"],
+    "skills": ["HTML", "CSS", "JS", "React", "Tailwind"],
     "demo": "",
     "source": ""
   },
@@ -30,5 +30,37 @@
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://joshuakaiser490.github.io/Schere-Stein-Papier/",
     "source": "https://github.com/JoshuaKaiser490/Schere-Stein-Papier"
+  },
+  {
+    "title": "Dog school",
+    "imageSrc": "projects/dogschool.WebP",
+    "description": "One of my first projects. A simple website for a dog school. Learn more about the courses, the team, and the training methods.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://joshuakaiser490.github.io/Hundeschule/",
+    "source": "https://github.com/JoshuaKaiser490/Hundeschule"
+  },
+  {
+    "title": "ATELIER OSNABRÜCK",
+    "imageSrc": "projects/photostudio.WebP",
+    "description": "A photo studio website. Discover the services, the team, and the studio. A simple and elegant design for a professional appearance.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://joshuakaiser490.github.io/Fotostudio/index.html",
+    "source": "https://github.com/JoshuaKaiser490/Fotostudio"
+  },
+  {
+    "title": "Ballpython Website",
+    "imageSrc": "projects/ballpython.WebP",
+    "description": "My first Website! Learn more about the Ball Python, a popular pet snake. Discover interesting facts, care tips, and more. Perfect for snake enthusiasts!",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://joshuakaiser490.github.io/Ballpython-Website/index.html",
+    "source": "https://github.com/JoshuaKaiser490/Ballpython-Website"
+  },
+  {
+    "title": "Ballpython Website",
+    "imageSrc": "projects/ballpython.WebP",
+    "description": "My first Website! Learn more about the Ball Python, a popular pet snake. Discover interesting facts, care tips, and more. Perfect for snake enthusiasts!",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://joshuakaiser490.github.io/Ballpython-Website/index.html",
+    "source": "https://github.com/JoshuaKaiser490/Ballpython-Website"
   }
 ]
