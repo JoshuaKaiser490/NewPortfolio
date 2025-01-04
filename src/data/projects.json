@@ -54,13 +54,5 @@
     "skills": ["HTML", "CSS"],
     "demo": "https://joshuakaiser490.github.io/Ballpython-Website/index.html",
     "source": "https://github.com/JoshuaKaiser490/Ballpython-Website"
-  },
-  {
-    "title": "Ballpython Website",
-    "imageSrc": "projects/ballpython.WebP",
-    "description": "My first Website! Learn more about the Ball Python, a popular pet snake. Discover interesting facts, care tips, and more. Perfect for snake enthusiasts!",
-    "skills": ["HTML", "CSS"],
-    "demo": "https://joshuakaiser490.github.io/Ballpython-Website/index.html",
-    "source": "https://github.com/JoshuaKaiser490/Ballpython-Website"
   }
 ]
